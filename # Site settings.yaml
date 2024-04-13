@@ -1,0 +1,9 @@
+# Site settings
+title: Test website
+description: This will be where I add additional information about myself for employers
+baseurl: "" # the subpath of your site, e.g. /blog/ or empty for the root of your domain
+url: "https://CharlesWilsons.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: Jekyll # You can change this to the Jekyll theme you prefer
