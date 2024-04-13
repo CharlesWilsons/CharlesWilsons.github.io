@@ -6,4 +6,4 @@ url: "https://CharlesWilsons.github.io" # the base hostname & protocol for your 
 
 # Build settings
 markdown: kramdown
-theme: Jekyll # You can change this to the Jekyll theme you prefer
+theme: minima # You can change this to the Jekyll theme you prefer
